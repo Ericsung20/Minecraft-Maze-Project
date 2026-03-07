@@ -18,9 +18,3 @@ FreeGLUT (MSVC) is required.
 - Dynamic lighting & material shading
 - Floating item animation (sin-based motion)
 - Sound system integration
-
-## Demo
-![SOR Model](Final_Project/SOR_Model_Demo.png)
-![Maze](Final_Project/3D_Maze_Demo.png)
-![Maze](Final_Project/3D_Maze_Demo2.png)
-![Maze](Final_Project/3D_Maze_Demo3.png)
